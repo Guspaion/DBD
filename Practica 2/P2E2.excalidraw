@@ -9032,8 +9032,8 @@
     {
       "id": "NeTQN6KUQquDSDH_oam9p",
       "type": "text",
-      "x": 1883.9488289620865,
-      "y": 681.6448177205403,
+      "x": 1851.3895374537758,
+      "y": 655.9401345414708,
       "width": 156.93994140625,
       "height": 200,
       "angle": 0,
@@ -9049,11 +9049,11 @@
       "index": "bTb",
       "roundness": null,
       "seed": 1262951581,
-      "version": 266,
-      "versionNonce": 52133779,
+      "version": 282,
+      "versionNonce": 1628778707,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1725996530554,
+      "updated": 1725997367994,
       "link": null,
       "locked": false,
       "text": "ELIMINAR:\nPOLIVALENTES\nCOMPUESTOS\nJERARQUIAS\n\nCHEQUEAR:\nCICLOS\nQUE MAS?",
@@ -10907,7 +10907,7 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
-      "roughness": 1,
+      "roughness": 0,
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
@@ -10915,9 +10915,9 @@
       "roundness": {
         "type": 3
       },
-      "seed": 1255867955,
-      "version": 151,
-      "versionNonce": 1450749341,
+      "seed": 619684691,
+      "version": 152,
+      "versionNonce": 499986269,
       "isDeleted": false,
       "boundElements": [
         {
@@ -10925,7 +10925,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1725997120662,
+      "updated": 1725997770962,
       "link": null,
       "locked": false
     },
